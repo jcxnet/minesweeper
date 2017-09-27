@@ -1,1 +1,2 @@
-# Minesweeper
+# minesweeper-API
+API test
