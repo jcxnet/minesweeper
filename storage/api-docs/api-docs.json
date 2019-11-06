@@ -1,0 +1,27 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "This is Minesweeper API",
+        "contact": {
+            "name": "jcxnet",
+            "email": "jcxnet@gmail.com"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://localhost",
+            "description": "development environment"
+        }
+    ],
+    "paths": {
+        "/swagger": {}
+    },
+    "components": {
+        "responses": {
+            "200": {
+                "description": "successful operation"
+            }
+        }
+    }
+}
